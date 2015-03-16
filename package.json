@@ -12,5 +12,11 @@
     "project"
   ],
   "author": "Nikhil Kasthurirangan",
-  "license": "Apache"
+  "license": "Apache",
+  "devDependencies": {
+    "mocha": "~2.2.1"
+  },
+  "dependencies": {
+    "lodash": "~3.5.0"
+  }
 }
